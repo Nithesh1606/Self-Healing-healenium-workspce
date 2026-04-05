@@ -33,7 +33,7 @@ docker-compose
 #### Run Healenium with Selenoid:
 
 ```sh
-docker-compose -f docker-compose-selenoid.yaml up -d
+docker-compose -f docker-compose
 ```
 
 <b>ATTENTION</b>
